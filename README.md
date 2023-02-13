@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m @NahuelOrselli
 - 👀 I’m interested in Front end programing.
 - 🌱 I’m currently learning Next.js, TypeScript, and TDD.
-- 💞️ I’m looking to collaborate on .......
+- 💞️ I'm looking to collaborate on any project to gain more experience.
 - 📫 How to reach me orselli.nahuel@gmail.com
 - 👨🏻‍💻 My page: [nahuelorselli.web.app](https://nahuelorselli.web.app)
 
