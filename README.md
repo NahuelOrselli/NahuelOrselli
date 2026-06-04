@@ -1,20 +1,26 @@
-# - 👋 Hi, I’m @NahuelOrselli
-- 👀 I’m interested in Front end programing.
-- 🌱 I’m currently learning Next.js, TypeScript, and TDD.
-- 💞️ I'm looking to collaborate on any project to gain more experience.
-- 📫 How to reach me orselli.nahuel@gmail.com
-- 👨🏻‍💻 My page: [nahuelorselli.web.app](https://nahuelorselli.web.app)
+# 👋 Hi, I'm Nahuel Orselli
 
-## Follow Me !
+Full-stack web developer passionate about building modern web applications, PWAs, and user-focused digital products.
 
-* in LinkedIn as [Nahuel Orselli](https://www.linkedin.com/in/nahuel-orselli-912850236/)
+## 🚀 About Me
 
-* in Instagram as [@nahuelorselli.jsx](https://www.instagram.com/nahuelorselli.jsx/)
+* 💻 Full-stack developer with a strong focus on frontend development.
+* ⚡ Building scalable applications with React, Next.js, TypeScript, and modern web technologies.
+* 📱 Interested in PWAs, offline-first experiences, automation, and product development.
+* 🌍 Based in Europe and constantly learning new languages, technologies, and ways to improve as a developer.
+* 🎻 Violinist, language learner, and tech enthusiast.
 
-* in Twitter as [@OrselliNahuel](https://twitter.com/OrselliNahuel)
+## 📫 Contact
 
+* Email: [orselli.nahuel@gmail.com](mailto:orselli.nahuel@gmail.com)
+* Portfolio: https://nahuelorselli.web.app
 
-<!---
-NahuelOrselli/NahuelOrselli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/nahuel-orselli-912850236/
+* Instagram: https://www.instagram.com/nahuelorselli.jsx/
+* X (Twitter): https://twitter.com/OrselliNahuel
+
+---
+
+*"Code is not only about solving problems — it's about creating experiences people enjoy using."*
